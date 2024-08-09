@@ -14,7 +14,9 @@ This final course project deals with the development and implementation of event
 
 The repository is organized into three main directories, each containing files relevant to different aspects of the project:
 
-1. **/assets**: This directory contains the main images used in notebooks. The images are used to illustrate theoretical concepts, simulation results and converter performance graphs.
+- **`simulator/`**: Contém a simulação de uma microrrede de corrente contínua.
+- **`docs/`**: Contém as documentações do projeto.
+  - _**Mathematical Modeling of a Microgrid**_: Detalhes da modelagem matemática da microrrede
 
 2. **/notebooks**: This directory contains the Python notebooks that were used throughout the project. These notebooks contain the codes and their descriptions needed to carry out the simulations, as well as analysis and visualization of the data obtained.
 
@@ -167,3 +169,4 @@ Contributions to improve this project are welcome. To contribute, please follow 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+>>>>>>> development
